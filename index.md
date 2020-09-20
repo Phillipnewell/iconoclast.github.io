@@ -14,12 +14,21 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+###### Header 6
 
 - Bulleted
 - List
 
+* Unordered1
+* Unordered2
+  * Unordered1.2
+   * Unordered2.2
+
+
 1. Numbered
 2. List
+3. **Like**
+4. *This!*
 
 **Bold** and _Italic_ and `Code` text
 
